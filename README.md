@@ -39,6 +39,7 @@ This ensures that the app is lightweight, user-friendly, and functional without 
 * 📝 **Add new tasks** – Quickly create tasks with a simple input
 * ✏️ **Edit existing tasks** – Modify task content on the fly
 * 🗑️ **Remove tasks** – Delete completed or unwanted tasks
+* ✅ Mark tasks as complete with strikethrough styling
 * 💾 **LocalStorage support** – Data persists after browser refresh
 * ⚡ **Built with Redux Toolkit** – Predictable state management
 * 🎨 **Clean UI** – Styled with TailwindCSS + ShadCN components
@@ -94,7 +95,7 @@ npm run dev
 * ☁️ Sync with backend/database for multi-device use
 * 🔍 Add search and filter functionality
 * 🌙 Dark mode support
-* ✅ Mark tasks as complete with strikethrough styling
+
 
 ---
 
