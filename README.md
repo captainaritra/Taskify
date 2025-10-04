@@ -60,8 +60,8 @@ This ensures that the app is lightweight, user-friendly, and functional without 
 1. **Clone this repository:**
 
 ```bash
-git clone https://github.com/your-username/taskify.git
-cd taskify
+git clone https://github.com/captainaritra/Taskify.git
+cd Taskify
 ```
 
 2. **Install dependencies:**
@@ -111,9 +111,8 @@ npm run dev
 
 **Aritra Samanta**
 
-* GitHub: [@your-username](https://github.com/your-username)
-* Email: your.email@example.com
-
+* GitHub: [@captainaritra](https://github.com/captainaritra)
+* Email: aritrasamanta1728@gmail.com
 ---
 
 **Made with ❤️ as a CS50x Final Project**
